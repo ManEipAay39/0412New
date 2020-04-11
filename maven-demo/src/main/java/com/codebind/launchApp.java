@@ -8,7 +8,7 @@ public class launchApp {
 	public static void main(String[] args) {
 		System.setProperty("webdriver.gecko.driver","C:\\Users\\manas\\Desktop\\WD\\jar\\geckodriver.exe");
 		  WebDriver driver=new FirefoxDriver();
-		  driver.get("http://yahoomail.com");
+		  driver.get("http://rediff.com");
 		  driver.manage().window().maximize();
 
 	}
