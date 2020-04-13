@@ -10,7 +10,7 @@ public class launchApp {
 		  WebDriver driver=new FirefoxDriver();
 		  driver.get("http://facebook.com");
 		  driver.manage().window().maximize();
-		  System.out.println("Manas Mohanty");
+		  System.out.println("ManasEipsaAayushi");
 
 	}
 
